@@ -27,7 +27,7 @@ class Body extends StatelessWidget {
                   color: kPrimaryColor,
                   onPressed: () {},
                   child: Text(
-                    "Buy Now",
+                    "Compre Agora",
                     style: TextStyle(
                       color: Colors.white,
                       fontSize: 16,
@@ -38,7 +38,7 @@ class Body extends StatelessWidget {
               Expanded(
                 child: FlatButton(
                   onPressed: () {},
-                  child: Text("Description"),
+                  child: Text("Descrição"),
                 ),
               ),
             ],
